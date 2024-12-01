@@ -1,4 +1,3 @@
 discord
 torch
-transformers.AutoModelForCausalLM
-transformers.AutoTokenizer
+transformers
